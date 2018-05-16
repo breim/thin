@@ -4,7 +4,7 @@ module Thin
   class PlatformNotSupported < RuntimeError; end
   
   module VERSION #:nodoc:
-    MAJOR    = 1
+    MAJOR    = 2
     MINOR    = 7
     TINY     = 2
     
